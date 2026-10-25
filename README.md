@@ -1,4 +1,4 @@
-# 🌿 Karnataka Diet Planner (v2)
+# 🌿 Karnataka Diet Planner 
 
 Full-stack website: **React (Vite) + Express + SQLite**. English / ಕನ್ನಡ throughout.
 
